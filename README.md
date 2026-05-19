@@ -31,7 +31,7 @@ I don't just use AI tools. I design the pipelines behind them.
 ### Currently working on
 
 - `ESP Validation Agent` — multi-agent system with RAG (418 chunks) validating ESP pump configurations across 108 wells
-- `Enerview ESP Intelligence v1` — domain dataset for training an ESP optimization AI model
+- `ESP Intelligence` — domain dataset for training an ESP optimization AI model
 - `Install Reports Pipeline` — automated PDF extraction to structured well database (43-column schema)
 
 ---
